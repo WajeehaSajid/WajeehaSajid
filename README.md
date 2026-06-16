@@ -1,24 +1,13 @@
-<h1 align="center">Hi, I'm Wajeeha Sajid </h1>
-
-<p align="center">
-  <b>CS Student @ FAST-NUCES Chiniot-Faisalabad</b><br>
-  AI • Software Development • Databases<br>
- Actively Seeking Internship Opportunities
-</p>
-
 <p align="center">
   <a href="TUMHARA_LINKEDIN_LINK_YAHAN">
-    <img src="https://img.shields.io/badge/LinkedIn-Wajeeha%20Sajid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:TUMHARI_EMAIL_YAHAN">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20To-Internship-27ae60?style=for-the-badge&logoColor=white"/>
 </p>
 
----
 ---
 
 ## About Me
