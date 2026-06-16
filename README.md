@@ -3,7 +3,7 @@
 <p align="center">
   <b>CS Student @ FAST-NUCES Chiniot-Faisalabad</b><br>
   AI • Software Development • Databases<br>
-  'Actively Seeking Internship Opportunities'
+  `Actively Seeking Internship Opportunities`
 </p>
 
 <p align="center">
