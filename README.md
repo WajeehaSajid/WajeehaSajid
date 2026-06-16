@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>CS Student @ FAST-NUCES Chiniot-Faisalabad</b><br>
-  _AI • Problem Solving • Databases_<br>
+  <em>AI • Problem Solving • Databases</em><br>
   Actively Seeking Internship Opportunities
 </p>
 
