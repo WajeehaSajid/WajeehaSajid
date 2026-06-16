@@ -65,10 +65,10 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [Atari Breakout](https://github.com/WajeehaSajid/Atari-Breakout) | `Breakout-style arcade game built in x86 Assembly for DOS.` | `x86 Assembly (NASM)` |
+| [Atari Breakout](https://github.com/WajeehaSajid/Atari-Breakout) | Breakout-style arcade game built in x86 Assembly for DOS. | x86 Assembly (NASM) |
 | [Wumpus Agent](https://github.com/WajeehaSajid/wumpus-agent) | AI agent navigating Wumpus World using logic | Python |
 | [Hostel Hub](https://github.com/WajeehaSajid/Hostel-Hub) | Complete hostel management system with triggers & cursors | Oracle PL/SQL |
-| [Algo Bias Auditor](https://github.com/WajeehaSajid/Algo-Bias-Auditor) | `Fairness auditing tool for analyzing bias in machine learning models.` | Python |
+| [Algo Bias Auditor](https://github.com/WajeehaSajid/Algo-Bias-Auditor) | Fairness auditing tool for analyzing bias in machine learning models. | Python |
 | [Perceptron Learning](https://github.com/WajeehaSajid/Preceptron-Learning) | Perceptron training with Delta Rule implementation | Python / AI |
 | [Sudoku CSP](https://github.com/WajeehaSajid/Sudoku-CSP) | Sudoku solver using Constraint Satisfaction Problem | Python / AI |
 
