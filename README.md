@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="TUMHARA_LINKEDIN_LINK_YAHAN">
+  <a href="https://www.linkedin.com/in/wajeehasajid/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <img src="https://img.shields.io/badge/Open%20To-Internship-brightgreen?style=for-the-badge"/>
