@@ -58,14 +58,6 @@
 
 ---
 
-## Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WajeehaSajid&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-</p>
-
----
-
 ## GitHub Stats
 
 <p align="center">
