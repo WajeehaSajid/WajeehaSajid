@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="wajeehasajid622@gmail.com">
+   <a href="mailto:wajeehasajid622@gmail.com">
     <img src="https://img.shields.io/badge/-Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
