@@ -71,7 +71,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WajeehaSajid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=prs,issues,contribs" height="150"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WajeehaSajid&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=500" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WajeehaSajid&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=450" height="150"/>
 </p>
 
 ---
