@@ -8,7 +8,7 @@
 
 <p align="center">
    <a href="https://portfolio-umber-two-k7kihba6s5.vercel.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-111111?style=for-the-badge&logo=Portfolio&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   
   <a href="https://www.linkedin.com/in/wajeehasajid/">
